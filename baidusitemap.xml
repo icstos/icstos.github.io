@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://blog.cstos.com/2018/10/17/401-nodejs-npm-hexo-next-gitee-blog%E6%90%AD%E5%BB%BA/</loc>
+    <loc>http://blog.cstos.com/posts/zb260517.html</loc>
+    <lastmod>2026-05-17</lastmod>
+  </url>
+  <url>
+    <loc>http://blog.cstos.com/posts/62c7ab08.html</loc>
     <lastmod>2026-05-17</lastmod>
   </url>
 </urlset> 
