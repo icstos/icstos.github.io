@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.cstos.com/posts/ubuntusv.html</loc>
+    
+    <lastmod>2026-05-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cstos.com/posts/zb260517.html</loc>
+    
+    <lastmod>2026-05-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cstos.com/posts/62c7ab08.html</loc>
     
     <lastmod>2026-05-17</lastmod>
     
@@ -11,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://blog.cstos.com/posts/62c7ab08.html</loc>
+    <loc>http://blog.cstos.com/about/index.html</loc>
     
     <lastmod>2026-05-17</lastmod>
     
@@ -29,15 +47,6 @@
   </url>
   
   <url>
-    <loc>http://blog.cstos.com/about/index.html</loc>
-    
-    <lastmod>2026-05-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.cstos.com/categories/index.html</loc>
     
     <lastmod>2026-05-15</lastmod>
@@ -49,50 +58,50 @@
 
   <url>
     <loc>http://blog.cstos.com/</loc>
-    <lastmod>2026-05-17</lastmod>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://blog.cstos.com/tags/%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A/</loc>
-    <lastmod>2026-05-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cstos.com/tags/%E5%91%A8%E6%8A%A5/</loc>
-    <lastmod>2026-05-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cstos.com/tags/%E6%97%A5%E5%B8%B8%E8%AE%B0%E5%BD%95/</loc>
-    <lastmod>2026-05-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.cstos.com/tags/%E6%93%8D%E4%BD%9C/</loc>
-    <lastmod>2026-05-17</lastmod>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.cstos.com/tags/%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2026-05-17</lastmod>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.cstos.com/tags/%E5%B8%B8%E8%AF%86/</loc>
-    <lastmod>2026-05-17</lastmod>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cstos.com/tags/%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cstos.com/tags/%E5%91%A8%E6%8A%A5/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cstos.com/tags/%E6%97%A5%E5%B8%B8%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -100,15 +109,15 @@
 
   
   <url>
-    <loc>http://blog.cstos.com/categories/%E5%91%A8%E6%8A%A5/</loc>
-    <lastmod>2026-05-17</lastmod>
+    <loc>http://blog.cstos.com/categories/%E6%8C%87%E5%8D%97/</loc>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.cstos.com/categories/%E6%8C%87%E5%8D%97/</loc>
-    <lastmod>2026-05-17</lastmod>
+    <loc>http://blog.cstos.com/categories/%E5%91%A8%E6%8A%A5/</loc>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
