@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>周报-20260518-20260524</title>
+      <link href="/posts/weekly-report-20260524.html"/>
+      <url>/posts/weekly-report-20260524.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h2 id="整体状态"><a href="#整体状态" class="headerlink" title="整体状态"></a>整体状态</h2><ul><li>财务：-783.56<ul><li>收入：0</li><li>支出：434.56（云服务器）+180（域名）+169（夸克网盘会员）</li></ul></li><li>技术：选型：python3.14.5、邮箱: <code>cs@cstos.com</code>、颜色、字体、<ul><li>week20260517：Ubuntu server-V26.04、gitea-V1.26.1、hexo-V8.1.2、next-V7.8.0、nginx-1.24.0、flet-0.85.1、llama.cpp-b9189</li><li>非特殊情况后续不变动</li></ul></li><li>生产：cs-ui、cs-utils梳理 使用copilot实现</li><li>人力资源、市场、营销、销售、运营无动态</li></ul><h2 id="工作事项"><a href="#工作事项" class="headerlink" title="工作事项"></a>工作事项</h2><ul><li><input checked disabled type="checkbox"> 2026-05-19： 梳理 <a href="https://github.com/icstos/cs-detect-project-template">缺陷检测项目代码模板</a></li><li><input checked disabled type="checkbox"> 2026-05-20： 完成武某需求的LOGO识别检测方案尝试（paddleocr效果佳）</li><li><input checked disabled type="checkbox"> 2026-05-21： flet文档学习，输出flet开发系列</li><li><input checked disabled type="checkbox"> 2026-05-22：编码工具：Cursor（代码最强）+VSCode（习惯用它编辑、打开快） +Trae（备用），待购 codex</li><li><input checked disabled type="checkbox"> 2026-05-22：大模型：gemme-4-E4B，本地部署，持续问答，显卡温度上80+了，还是得同时使用外部API</li><li><input checked disabled type="checkbox"> 2026-05-23：hexo主题定版，专注于内容（ 在主题配置的过程中，一度想转至Butterfly、Fluid、Stellar、Astro的怀抱，最终还是没动，坚守原则，以内容为主，其他需要实现的走flet）</li><li><input checked disabled type="checkbox"> 2026-05-24：战略性质OKR制定：企业愿景、企业使命、核心价值观</li></ul><figure class="highlight ini"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">企业愿景: 人机协创，数实共生，智启新元</span><br><span class="line">企业使命: 格物致智，厚植新质生产力；经世致用，赋能千行百业兴</span><br><span class="line">核心价值观: 守正日新，知行合一，开放共赢，利国惠民 </span><br></pre></td></tr></table></figure><ul><li><input checked disabled type="checkbox"> 杂项：<ul><li><input checked disabled type="checkbox"> 前司工作梳理、简历更新</li></ul></li><li><input disabled type="checkbox"> 未完成：<ul><li><input disabled type="checkbox"> 早期blog梳理，统一格式：description无法</li><li><input disabled type="checkbox"> 视频剪辑软件定型</li><li><input disabled type="checkbox"> 实现知乎、公众号、小红书、博客园等至少3个平台的同步内容更新</li><li><input disabled type="checkbox"> cs-utils 启动，基于mcp</li><li><input disabled type="checkbox"> cs-ui 简历实现</li></ul></li></ul><h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><ul><li>很多自动化工作，都回到了ui界面、utils组件的搭建上，还是得再打一下地基<ul><li>解决方案：打磨基础框架</li></ul></li><li>上周给规划太多任务了，完不成啊（还是效率不够高？）。<ul><li>解决方案：每周只定三个输出类任务（输出倒逼输入，输入内容都要有所输出），每天只定一个一定要完成的核心事项</li></ul></li></ul><h2 id="下周计划"><a href="#下周计划" class="headerlink" title="下周计划"></a>下周计划</h2><ul><li>输出Python3.14.5手册</li><li>输出cs-ui界面库：基于flet，面向界面&#x2F;客户端开发</li><li>输出cs-utils组件库：基于mcp，面向各种应用</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 周报 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 工作报告 </tag>
+            
+            <tag> 周报 </tag>
+            
+            <tag> 日常记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>台式机-UbuntuServer26.04与环境配置</title>
       <link href="/posts/ubuntusv.html"/>
       <url>/posts/ubuntusv.html</url>
@@ -34,8 +63,8 @@
     
     <entry>
       <title>周报-20260514-20260517</title>
-      <link href="/posts/zb260517.html"/>
-      <url>/posts/zb260517.html</url>
+      <link href="/posts/weekly-report-20260517.html"/>
+      <url>/posts/weekly-report-20260517.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h2 id="整体状态"><a href="#整体状态" class="headerlink" title="整体状态"></a>整体状态</h2><ul><li>财务：-614.56<ul><li>收入：0</li><li>支出：434.56（云服务器）+180（域名）</li></ul></li><li>人力资源：2026年5月15日正式离职，全职折腾，拥抱AI</li><li>技术：选型：Ubuntu server26.04、gitea、hexo、nginx、flet、llama.cpp<ul><li>非特殊情况后续不变动</li></ul></li><li>生产：cs-ui 使用copilot实现</li><li>市场、营销、销售、运营无动态</li></ul><h2 id="工作事项"><a href="#工作事项" class="headerlink" title="工作事项"></a>工作事项</h2><ul><li><input checked disabled type="checkbox"> 2026-05-14：重置台式机：ubuntu server 26.04，配置基本环境（mariadb、redis、git、nodejs等），作为本地服务器，进行定时任务、备份等管理</li><li><input checked disabled type="checkbox"> 2026-05-14：配置 Gitea 平台：CSHub，进行代码管理</li><li><input checked disabled type="checkbox"> 2026-05-14：选型：静态网站输出平台：结论：还是用 hexo+next，基于应用需求，优于astro、hugo、pelican等一众</li><li><input checked disabled type="checkbox"> 2026-05-15：hexo+next blog 重启</li><li><input checked disabled type="checkbox"> 2026-05-15：云服务器采购，基本环境配置</li><li><input checked disabled type="checkbox"> 2026-05-16：云服务器：hexo blog 启动、nginx 部署：blog.cstos.com</li><li><input checked disabled type="checkbox"> 2026-05-16：blog 架构：本地电脑编辑、本地服务器生成、云服务器运行</li><li><input checked disabled type="checkbox"> 2026-05-17：网站备案相关、hexo 优化</li><li><input checked disabled type="checkbox"> 2026-05-17：选型：ui 界面框架：flet（看来看去还是你最好用、最有潜力），基于使用需求，力压 electron、CSharp、pyside、wxpython 等一众。</li><li><input checked disabled type="checkbox"> 2026-05-17：选型：大模型运行：llama.cpp，基于使用需求，优于 ollama、vllm 等一众。</li><li><input checked disabled type="checkbox"> 2026-05-17：cs-ui，基于flet构建界面程序，vscode copilot的token有点不够用、还有点慢</li><li><input checked disabled type="checkbox"> 杂项：<ul><li><input checked disabled type="checkbox"> 前司工作梳理、简历更新</li><li><input checked disabled type="checkbox"> 文档更新</li><li><input checked disabled type="checkbox"> 整体技术架构梳理，方案选型</li></ul></li></ul><h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><ul><li>网站备案：涉及到评论，需要安全评估，看着有点麻烦。<ul><li>考虑直接把评论功能完全去掉引流到公众号，先看备案是否直接通过。</li></ul></li><li>代码实现慢，需要多工具、多模型用起来</li></ul><h2 id="下周计划"><a href="#下周计划" class="headerlink" title="下周计划"></a>下周计划</h2><ul><li>战略性质OKR制定</li><li>编码工具与大模型尝试与定版，多并发编程</li><li>blog程序层面定版，专注于内容</li><li>cs-ui 简历实现</li><li>cs-utils 启动，基于mcp</li><li>实现知乎、公众号、小红书、博客园等至少3个平台的同步内容更新</li><li>视频剪辑软件定型</li></ul>]]></content>
       

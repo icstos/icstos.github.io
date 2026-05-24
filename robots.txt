@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+Allow: /about/
+Allow: /links/
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /lib/
+
+Sitemap: https://blog.cstos.com/sitemap.xml
+Sitemap: https://blog.cstos.com/baidusitemap.xml

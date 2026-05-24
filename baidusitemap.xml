@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://blog.cstos.com/posts/zb260517.html</loc>
-    <lastmod>2026-05-22</lastmod>
+    <loc>http://blog.cstos.com/posts/weekly-report-20260524.html</loc>
+    <lastmod>2026-05-24</lastmod>
   </url>
   <url>
     <loc>http://blog.cstos.com/posts/ubuntusv.html</loc>
@@ -15,5 +15,9 @@
   <url>
     <loc>http://blog.cstos.com/posts/358b95.html</loc>
     <lastmod>2026-05-19</lastmod>
+  </url>
+  <url>
+    <loc>http://blog.cstos.com/posts/weekly-report-20260517.html</loc>
+    <lastmod>2026-05-18</lastmod>
   </url>
 </urlset> 

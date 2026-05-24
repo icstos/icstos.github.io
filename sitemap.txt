@@ -1,9 +1,10 @@
+http://blog.cstos.com/posts/weekly-report-20260524.html
 http://blog.cstos.com/lib/canvas-nest/README.html
 http://blog.cstos.com/about/index.html
-http://blog.cstos.com/posts/zb260517.html
 http://blog.cstos.com/posts/ubuntusv.html
 http://blog.cstos.com/posts/62c7ab08.html
 http://blog.cstos.com/posts/358b95.html
+http://blog.cstos.com/posts/weekly-report-20260517.html
 http://blog.cstos.com/tags/index.html
 http://blog.cstos.com/categories/index.html
 http://blog.cstos.com/
